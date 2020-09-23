@@ -1,0 +1,18 @@
+Instructions:
+Open up the server code compile it and then
+run it, Make sure you tell it to "listen"
+for a connection.
+
+Then compile this (client) code and run it.
+127.0.0.1 is a standerd loob back, and 23 is
+the telnet port the server is using. Once you
+connect just start typeing in the text box.
+Then go back and look in the servers window :)
+
+
+::Links::
+
+http://world.std.com/~jimf/papers/sockets/winsock.html
+http://www.stardust.com/winsock/ws1.1_api/
+http://users.neca.com/vmis/wsock.htm
+http://www.cyberport.com/~tangent/programming/winsock/
